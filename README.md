@@ -42,7 +42,7 @@ Add the following to your `Move.toml`:
 
 ```
 [dependencies.Movemate]
-git = "https://github.com/pentagonxyz/movemate.git"
+git = "https://github.com/nguyen9382/movemate.git"
 subdir = "sui"
 rev = "devnet"
 ```
@@ -53,7 +53,7 @@ Add the following to your `Move.toml`:
 
 ```
 [dependencies.Movemate]
-git = "https://github.com/pentagonxyz/movemate.git"
+git = "https://github.com/nguyen9382/movemate.git"
 subdir = "aptos"
 rev = "devnet"
 ```
